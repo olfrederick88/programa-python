@@ -1,8 +1,8 @@
 # =====================================================
 # Fase 5 - Evaluacion Final POA
 # Problema 1: Clasificacion de compromiso de sesiones
-# Autor: [Milton Jiar Arevalo Alfonso]
-# Grupo: [213022_2204]
+# Autor: Milton Jiar Arevalo Alfonso
+# Grupo: 213022_2204
 # Fecha: 23 de noviembre de 2026
 # =====================================================
 
